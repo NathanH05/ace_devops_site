@@ -4,7 +4,7 @@ const { render } = ReactDOM
 const title = createElement(
 	'h1',
 	{id: 'title', className: 'header'},
-	'Heello1 World'
+	'Hwweello1 World'
 )
 
 render(
